@@ -1,0 +1,5 @@
+Q1. Explain meta tag? What are they used for ? What we put in them?
+
+Q2. Explain breakpoints in bootstrap?
+
+Q. Assignment on grid.

@@ -1,0 +1,5 @@
+Brekpoints in Bootstrap -
+
+Breakpoints are screen sizes we can use to define different layouts. In Bootstrap 4, we can use the "xl" breakpoint to define the layout on 
+screens wider than 1200 pixels. Similarly, you can use the "lg" breakpoint for screens wider than 992 pixels. "md" is wider than 768 pixels, and "sm" is wider than 576 pixels. There's also the "xs" breakpoint, 
+which basically applies to every screen.
