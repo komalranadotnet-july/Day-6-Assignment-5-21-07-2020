@@ -1,0 +1,165 @@
+#header{
+    height: 300px;
+    background-color: rgb(10, 169, 190);
+    text-align: center;
+  
+}
+
+button
+{
+    width: 200px;
+    padding: 4px;
+    margin-left: 50px;
+    
+}
+
+#section{
+    background-color:#E0E0E0;
+    text-align: center;
+    height:400px;
+
+    
+}
+
+.section1{
+    text-align: center;
+    height: 600px;
+    margin-bottom: 1px;
+    background-color: white;
+}
+.caption{
+    width: 50%;
+    text-align: justify;
+    
+}
+.heading{
+    color:yellow;
+}
+.footer{
+    background-color: grey;
+    text-align: center;
+    color:white;
+    width:100%;
+    height:250px;
+    margin-top: 1px;
+}
+
+.section3{
+    height:450px;
+    text-align: center;
+    
+
+}
+
+  .form{
+      width:50%;
+      margin-left: 300px;
+  }
+
+  .section{
+      background-color:lightsteelblue;
+      height:300px;
+      
+
+  }
+
+  .section2{
+    background-color: grey;
+    text-align: center;
+    height:500px;
+  }
+
+ 
+
+
+.card{
+  margin-left: 130px;
+  width: 18rem;
+ 
+}
+
+
+.progress {
+  background-color: #aaa;
+  
+}
+
+.smed{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  
+}
+#fb{
+  color:blue;
+}
+
+#google{
+  color:red;
+  margin-left: 20px;;
+}
+
+#twitter{
+  color:lightseagreen;
+  margin-left: 20px;
+}
+
+#youtube{
+color:red;
+margin-left: 20px;
+}
+
+#development{
+  font-size: 100px;
+color:orange;
+
+}
+
+#design{
+  font-size: 100px;
+color:orange;
+margin-left: 50px;
+}
+
+#creativity{
+  font-size: 100px;
+  color:orange;
+  margin-left: 50px;
+}
+
+.iconr{
+  margin-left: 90px;
+  font-size: 30px;
+}
+
+
+#child{
+  color:orange;
+  font-size: 50px;;
+}
+
+
+
+.button{
+  position:absolute;
+
+width:50px;
+background-color:none;
+margin-left: 0px;
+border: none;
+height: 30px;
+
+
+}
+
+.search{
+  margin-left: 700px;
+  height:30px;
+} 
+
+
+
+
+
+ 
